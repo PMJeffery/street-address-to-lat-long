@@ -7,11 +7,6 @@
 <h3 align="center">Street Address to Latitude Longitude</h3>
 
 <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/PMJeffery/street-address-to-lat-long"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
       ·
     <a href="https://github.com/PMJeffery/street-address-to-lat-long/issues">Report Bug</a>
     ·
@@ -91,7 +86,10 @@ Install the latest version of [geopy](https://github.com/geopy/geopy)
 
 ## Usage
 
-Open "addresses.txt" and paste your address.  One address per line.
+
+'addresses.txt' provides a sample of publicly available street addresses of Splunk offices around the world.  To test the output, you can run the command as is - shown below and verfiy 'output.csv'
+
+Open 'addresses.txt' and paste your address.  One address per line.
 
 The format must be <street address>,<city>,<state/territory/provence>,<country>
 
