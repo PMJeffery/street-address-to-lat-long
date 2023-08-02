@@ -45,6 +45,11 @@ Ever need to convert a list of Street Addresses to Latitude and Longitude coordi
 
 Run this simple Python 3 script to import a list of your addresses, 'addresses.txt' and output will include a header, addresses with their respective latitude and longitude coordinates in a CSV file format, 'output.csv'
 
+The output file can then be renamed and uploaded to Splunk as a lookup table in a search.
+
+Key Apps to help with managing Lookup Tables and Splunk Configurations, respectively:
+
+[Splunk App for Lookup File Editing](https://splunkbase.splunk.com/app/1724) | [Config Explorer (not compatible with Splunk Cloud)](https://splunkbase.splunk.com/app/4353)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
