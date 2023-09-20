@@ -96,7 +96,7 @@ Install the latest version of [geopy](https://github.com/geopy/geopy)
 
 Open 'addresses.txt' and paste your address.  One address per line.
 
-The format must be <street address>,<city>,<state/territory/provence>,<country>
+The format must be street address,city,<state/territory/provence>,country
 
 Example: *1600 Pennsylvania Avenue NW, Washington, DC 20500, United States*
 
